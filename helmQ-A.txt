@@ -1,4 +1,6 @@
 ###### Helm questions #####
+## check this question with chatgpt
+------------------------------------
 Q what is helm in kuberneties and why it is used ?
 Q what is the helm chart and what are its main component ?
 Q how do you install , upgrade, and rollback and release in helm ?
